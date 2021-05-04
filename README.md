@@ -16,5 +16,10 @@ php artisan serve
 
 - Almost all the features has been implemented If I missed something please let me know
 
-- Features include as follows: add products, products list, like, Softdelete, restore, trash, search products by: category, rating, stock status, price range etc.
+- Features include as follows: 
+-- add products (image, title, rating, price, description), products list, 
+-- Product Like, Softdelete, restore, trash, 
+-- Search products by: category, rating, stock status, price range etc.
+-- Side navigation will have menus, list (home) and trash
+-- Side navigation will have menus, list (home) and trash
 
